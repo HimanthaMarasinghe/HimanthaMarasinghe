@@ -1,67 +1,39 @@
 <h1 align="center">Hi there 👋 I'm Himantha Marasinghe</h1>
 
-- <p>🎓 A BSc Information Systems student at the University of Colombo School of Computing.</p>
-- <p>💻 My focus is on becoming a skilled software engineer.
-- <p>📚 currently learning programming, data structures, and software development principles.</p>
-- <p>🌐 Exploring web and mobile app development, as well as database management, to broaden my understanding of software engineering.</p>
-- <p>🔍 Constantly learning and eager to grow in the field of software engineering.</p>
-- <p>🚀 Ready to collaborate and contribute within the GitHub community.</p>
+- 🎓 A BSc (Hons) in Information Systems Undergraduate at the University of Colombo School of Computing.
+- 💻 My focus is on becoming a skilled software engineer.
+- 📚 Skilled in full-stack development using React, React Native, Node.js, and Spring Boot.
+- 🌐 Exploring AI, Machine Learning, and cloud technologies to broaden my understanding of software engineering.
+- 🔍 Constantly learning and eager to grow in the field of software engineering.
+- 🚀 Ready to collaborate and contribute within the GitHub community.
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanthaMarasinghe&show_icons=true&theme=radical&hide=contribs&show=reviews,prs_merged,prs_merged_percentage&include_all_commits=true)
+
+
+## Profiles & Portfolio
+
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himantha marasinghe" height="30" width="30" />](https://www.linkedin.com/in/himantha-marasinghe)&nbsp; 👈 Connect with me in LinkedIn
+
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himantha-marasinghe" height="30" width="30" />](https://stackoverflow.com/users/23225423/himantha-marasinghe)&nbsp; 👈 Find me on Stackoverflow &nbsp; ![Static Badge](https://img.shields.io/badge/Reputation-200+-orange?style=social)
+
+
+[<img align="center" src="https://res.cloudinary.com/dtimdnbve/image/upload/w_30,h_30,c_scale/v1758619745/favicon_s6ob4z.png" alt="himantha-marasinghe" height="30" width="30" />](https://www.himantha.me/)&nbsp; 👈 Check out my Portfolio
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanthaMarasinghe&theme=gotham&show_icons=true&hide_border=false&layout=compact">
-</div>
+## My Skills 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimanthaMarasinghe&theme=gotham&hide_border=false">
-</div>
-
----
+![Typing SVG](https://readme-typing-svg.demolab.com?&size=20&duration=2000&vCenter=true&height=20&lines=Java;JavaScript;TypeScript;PHP;C;R;React;React+Native;Next.js;Tailwind;Material+UI;Bootstrap;jQuery;JavaFX;Spring+Boot;Node.js;Express;Kafka;Redis;Appwrite;MySQL;PostgreSQL;MongoDB;Oracle+DB;Linux;GitHub;Git;Maven;Postman;Figma;LaTeX;Docker;AWS)
 
 
+| Category | Skills |
+|----------|--------|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,js,ts,php,c,r" /><br /> |
+|**Frontend**|<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui,bootstrap,jquery" /><br />|
+|**Backend**|<img src="https://skillicons.dev/icons?i=spring,nodejs,express,kafka,redis,appwrite" /><br />|
+|**Databases**|<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /><img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/470140ebab708f2275b853ba3b105dfdcd09c152/databases/oracle.svg" height="50" width="50" />|
+|**Tools & Others**|<img src="https://skillicons.dev/icons?i=linux,github,git,maven,postman,vscode,idea,figma,latex,docker,aws" /><br />|
 
-<div align="center">
-  <a href="https://linkedin.com/in/himantha-marasinghe-18340528a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himantha marasinghe" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/23225423/himantha-marasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="himantha-marasinghe" height="30" width="40" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanthaMarasinghe\&layout=compact&theme=radical)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="40" height="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Premiere.svg" alt="illustrator" width="40" height="40" />
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" />
-
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">
-
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40" />
-
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-
-
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="express" width="40" height="40" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-
-
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40">
-
-
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-
-
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Light.svg" alt="VS Code" width="40" height="40">
-</div>
+## Featured Projects (see pinned section below)
